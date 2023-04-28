@@ -13,3 +13,6 @@ Description :
 - Data Entered by Keypad and be viewed on LCD.
 - This data control motors on 3 levels of speeds (100,175,255).
 - The LED, when we turn it up , it closed automatically after 10 seconds and the motor and keypad and LCD keep working without being affected.
+
+# You can see a live project here
+https://www.linkedin.com/posts/alaa-youssef-7578ab245_training-project-embedded-activity-6977967260556496897-FUAt?utm_source=share&utm_medium=member_desktop
